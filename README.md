@@ -216,6 +216,7 @@ Aggregator → returns final response
 
 - Add a lightweight frontend widget to embed agent responses
 
+
 **✨ Start small, build bold.. Let your first ROMA agent spark bigger ideas.**
 
 
