@@ -2,7 +2,9 @@
   <span style="font-size:40px; font-weight:bold;">Build Your First ROMA Agent</span>
 </p>
 
+
 A clear, community-focused walkthrough to set up ROMA, build an Asset Snapshot Agent, and run it right in your browser. It taps the CoinPaprika public API for live prices and top movers, with a Binance fallback tool for quick exchange quotes.
+
 
 
 🚀 What You’ll Actually Do 
