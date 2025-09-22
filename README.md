@@ -1,9 +1,11 @@
-**Build Your First ROMA Agent**
+<p align="center">
+  <span style="font-size:40px; font-weight:bold;">Build Your First ROMA Agent</span>
+</p>
 
 A clear, community-focused walkthrough to set up ROMA, build an Asset Snapshot Agent, and run it right in your browser. It taps the CoinPaprika public API for live prices and top movers, with a Binance fallback tool for quick exchange quotes.
 
 
-🚀 What You’ll Build
+🚀 What You’ll Actually Do 
 
 - Install ROMA locally (Docker)
 
@@ -11,13 +13,13 @@ A clear, community-focused walkthrough to set up ROMA, build an Asset Snapshot A
 
 - Add four production‑ready tools:
 
- ✅ search_asset (smart ID lookup)
+   ✅ search_asset (smart ID lookup)
 
- ✅ get_price (live price + % change)
+   ✅ get_price (live price + % change)
 
- ✅ top_movers (top gainers/losers)
+   ✅ top_movers (top gainers/losers)
 
- ✅ spot_price (Binance direct ticker price)
+   ✅ spot_price (Binance direct ticker price)
 
 - Run it in your browser and chat with your agent
   
